@@ -14,6 +14,7 @@ Your task is to analyze the image, process it through your entire pipeline, and 
 Please load and analyze the following image:
 
 ![Original image](../data/img_1.png)
+
 `/data/img_1.png`
 
 ### Task

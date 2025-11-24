@@ -13,14 +13,29 @@ Below are several known examples consisting of input images **X** and their corr
 
 ### Known (X, y) Examples from Lab 1.2
 
-1. **X:** `/data/img_1.png`  
+1. **X:** `/data/img_1.png`
+
+    ![Original image](../data/img_1.png)
+
    **y:** `/data/img_1_annotated.png`
 
-2. **X:** `/data/img_2.png`  
+   ![Annotated image](../data/img_1_annotated.png)
+
+2. **X:** `/data/img_2.png`
+
+    ![Original image](../data/img_2.png)
+
    **y:** `/data/img_2_annotated.png`
 
-3. **X:** `/data/img_3.png`  
+    ![Annotated image](../data/img_2_annotated.png)
+
+3. **X:** `/data/img_3.png`
+
+    ![Original image](../data/img_3.png)
+
    **y:** `/data/img_3_annotated.png`
+
+    ![Annotated image](../data/img_3_annotated.png)
 
 Use the patterns in these examples (visual features, annotation style, object classes, segmentation masks, etc.) to infer the correct output for a new image.
 
