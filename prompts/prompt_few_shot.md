@@ -12,7 +12,7 @@ Below are several known training examples consisting of (X, y) pairs.
 
 ### Input Image (X)
 Please load and analyze the following image:
-
+![Original image](../data/img_1.png)
 `/data/img_1.png`
 
 ### New Input
