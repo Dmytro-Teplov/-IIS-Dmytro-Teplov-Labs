@@ -1,16 +1,22 @@
-# Prompt 1 – Zero-Shot Example
+# Prompt 1 – Zero-Shot Image Example
 
-This prompt demonstrates how the thesis AI agent can be queried with a single new input **X**.  
-The agent processes X through the full end-to-end pipeline and returns a predicted output **y**.
+This prompt shows how the thesis AI agent processes a **single, unseen image X** and produces an output **y**.
 
 ---
 
 ## User Prompt
 
-You are an AI agent trained to operate as an end-to-end prediction system.  
-Given an unseen observation **X**, you must preprocess it, analyze it, apply your internal model, and generate the most likely output **y**.
+You are an AI agent that performs an end-to-end vision processing workflow.  
+You receive one image **X** as input.  
+Your task is to analyze the image, process it through your entire pipeline, and return a predicted label **y**.
 
-**X:**  
-[12.4, 7.8, 3.1]
+### Input Image (X)
+Please load and analyze the following image:
 
-Please return the predicted **y** only.
+![Original image](../data/img_1.png)
+`/data/img_1.png`
+
+### Task
+Process the image using your full pipeline (data understanding → preprocessing → feature extraction → inference → prediction).
+
+Return **only the predicted label y**.
