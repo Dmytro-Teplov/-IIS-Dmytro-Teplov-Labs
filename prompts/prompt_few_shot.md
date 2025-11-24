@@ -10,13 +10,10 @@ This demonstrates how the system can use few-shot prompting to operate more effe
 You are an AI agent that performs end-to-end prediction using small datasets.  
 Below are several known training examples consisting of (X, y) pairs.
 
-### Known Examples (from Lab 1.2)
+### Input Image (X)
+Please load and analyze the following image:
 
-1. X: [2.1, 1.3, 0.4] → y: 4.7  
-2. X: [0.9, 3.2, 1.1] → y: 6.0  
-3. X: [5.4, 2.2, 0.7] → y: 9.8  
-
-Use the patterns and relationships shown above to infer the output for a new input.
+`/data/img_1.png`
 
 ### New Input
 
