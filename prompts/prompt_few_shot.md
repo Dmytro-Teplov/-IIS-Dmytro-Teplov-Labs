@@ -43,13 +43,13 @@ Use the patterns in these examples (visual features, annotation style, object cl
 
 ### New Input Image (X)
 
-    ![Input image](../data/img_4.JPG)
+    ![Input image](../data/img_4.png)
 
-`/data/original/img_020.png`
+`/data/img_4.png`
 
 ### Task
 
 Analyze the known examples (X, y), learn the relationship, then:
 
-**Predict the output y for the new image `/data/original/img_020.png`.**  
+**Predict the output y for the new image `/data/img_4.png`.**  
 Return the expected annotation or label **in the same format as the Lab 1.2 examples**.
