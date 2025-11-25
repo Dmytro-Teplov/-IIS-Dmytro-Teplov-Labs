@@ -43,9 +43,11 @@ Use the patterns in these examples (visual features, annotation style, object cl
 
 ### New Input Image (X)
 
-    ![Input image](../data/img_4.png)
-
 `/data/img_4.png`
+
+![Input image](../data/img_4.png)
+
+
 
 ### Task
 
