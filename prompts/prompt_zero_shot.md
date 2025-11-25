@@ -21,3 +21,7 @@ Please load and analyze the following image:
 Process the image using your full pipeline (data understanding → preprocessing → feature extraction → inference → prediction).
 
 Return **only the predicted label y**.
+ 
+ **y:** `/data/img_1_annotated.png`
+
+   ![Annotated image](../data/img_1_annotated.png)
