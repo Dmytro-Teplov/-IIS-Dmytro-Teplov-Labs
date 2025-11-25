@@ -8,8 +8,16 @@ The annotated images in `/data/annotated/` contain the ground-truth labels (y) c
 
 ## User Prompt
 
-You are an AI agent performing end-to-end visual inference on small datasets.  
-Below are several known examples consisting of input images **X** and their corresponding annotated labels **y**.
+You are an AI agent implementing the full end-to-end pipeline of my thesis:  
+**“INVESTIGATION OF THE EFFICIENCY OF ARTIFICIAL NEURAL NETWORKS TRAINED WITH A SMALL AMOUNT OF DATA.”**
+
+Your task is to run the complete workflow while using the provided (X, y) examples to improve your performance.
+
+---
+
+### Example Training Data (Few-Shot Examples)
+
+Below are several known (X, y) pairs from my Lab 1.2 dataset:
 
 ### Known (X, y) Examples from Lab 1.2
 
